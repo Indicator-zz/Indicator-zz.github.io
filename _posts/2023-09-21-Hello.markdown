@@ -1,0 +1,9 @@
+---
+layout: post
+title: Hello
+date: 2023-09-21 00:00:00 +0300
+# description: Hello. # Add post description (optional)
+# img: software.jpg # Add image post (optional)
+# tags: [hello] # add tag
+---
+Hello,我是Indicator，我是一名软件工程专业的学生
